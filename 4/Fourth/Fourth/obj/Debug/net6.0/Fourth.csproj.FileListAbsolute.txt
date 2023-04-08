@@ -1,0 +1,15 @@
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\laba14\3\Fourth\Fourth\bin\Debug\net6.0\Fourth.exe
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\laba14\3\Fourth\Fourth\bin\Debug\net6.0\Fourth.deps.json
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\laba14\3\Fourth\Fourth\bin\Debug\net6.0\Fourth.runtimeconfig.json
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\laba14\3\Fourth\Fourth\bin\Debug\net6.0\Fourth.dll
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\laba14\3\Fourth\Fourth\bin\Debug\net6.0\Fourth.pdb
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\laba14\3\Fourth\Fourth\obj\Debug\net6.0\Fourth.csproj.AssemblyReference.cache
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\laba14\3\Fourth\Fourth\obj\Debug\net6.0\Fourth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\laba14\3\Fourth\Fourth\obj\Debug\net6.0\Fourth.AssemblyInfoInputs.cache
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\laba14\3\Fourth\Fourth\obj\Debug\net6.0\Fourth.AssemblyInfo.cs
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\laba14\3\Fourth\Fourth\obj\Debug\net6.0\Fourth.csproj.CoreCompileInputs.cache
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\laba14\3\Fourth\Fourth\obj\Debug\net6.0\Fourth.dll
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\laba14\3\Fourth\Fourth\obj\Debug\net6.0\refint\Fourth.dll
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\laba14\3\Fourth\Fourth\obj\Debug\net6.0\Fourth.pdb
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\laba14\3\Fourth\Fourth\obj\Debug\net6.0\Fourth.genruntimeconfig.cache
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\laba14\3\Fourth\Fourth\obj\Debug\net6.0\ref\Fourth.dll
